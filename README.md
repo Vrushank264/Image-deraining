@@ -5,7 +5,7 @@ Deep learning model to remove rain from the images.
 
 ## Results:
 
-This model achieves 22.97 dB PSNR on [Rain100H Dataset](https://drive.google.com/drive/folders/17RKnYBq0rlbABS73u_WcLjcZyxYHPY-T?usp=sharing).
+This model achieves 26 dB PSNR on [Rain100H Dataset](https://drive.google.com/drive/folders/17RKnYBq0rlbABS73u_WcLjcZyxYHPY-T?usp=sharing).
 
 Input :point_right: restored image :point_right: ground-truth
 
